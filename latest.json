@@ -1,0 +1,16 @@
+{
+  "version": "0.1.1",
+  "released": "2026-10-19",
+  "notes": [
+    "New CDU type setting (FANS 1/A or FANS 2/B). On FANS 2/B the PMDG moves MENU, FIX and N1 LIMIT to other keys, so TechLog landed on the FIX page and never set the failure; it now presses the right keys.",
+    "New Test the CDU keys button next to it: sets one harmless failure through the chosen CDU and clears it five seconds later.",
+    "The tablet app is offered on the 737 only, not on every aircraft.",
+    "Not seen in the sim yet: a whole failures walk and Send to FMC on FANS 2/B with this build."
+  ],
+  "page": "https://github.com/ersindevrim/PMDGTechLog-releases/releases/tag/v0.1.1",
+  "installer": {
+    "url": "https://github.com/ersindevrim/PMDGTechLog-releases/releases/download/v0.1.1/PMDGTechLog-Setup-v0.1.1.exe",
+    "sha256": "2361e405026bfade5bc366fbc3df98e24a8381e0b18315abd76ff6dddd778941",
+    "size": 116214681
+  }
+}
